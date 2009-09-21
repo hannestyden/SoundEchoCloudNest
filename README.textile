@@ -4,7 +4,9 @@ h2. Introduction
 
 This is a hack presented at "Music Hack Day Berlin":http://berlin.musichackday.org/
 
-It is released on a strict works for me basis. I had some problems getting the loading of the differnent libraries working. This will hopefully be fixed when I've managed to make my changes to the EchoNest API wrapper into it's own gem.
+It is released on a strict "works for me" basis. I had some problems getting the loading of the differnent libraries working. This will hopefully be fixed when I've managed to make my changes to the EchoNest API wrapper into it's own gem.
+
+If you have any problems please let me know.
 
 h2. Setup
 
