@@ -1,0 +1,16 @@
+h1. SoundEchoCloudNest
+
+h2. Introduction
+
+This is a hack presented at "Music Hack Day Berlin":http://berlin.musichackday.org/
+
+It is released on a strict works for me basis. I had some problems getting the loading of the differnent libraries working. This will hopefully be fixed when I've managed to make my changes to the EchoNest API wrapper into it's own gem.
+
+h2. Setup
+
+* Install "SoundCloud Ruby API Wrapper":http://github.com/soundcloud/ruby-api-wrapper
+* Install "my fork":http://github.com/hannestyden/ruby-echonest of the Echonest Ruby API Wrapper
+* "Use an existing or register a new SoundCloud application":http://soundcloud.com/settings/applications
+* "Get an EchoNest API key":http://developer.echonest.com/
+* Add you keys and secrets to the settings.rb file.
+* Run <code>$ ruby soundechocloudnest.rb</code>
